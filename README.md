@@ -5,5 +5,5 @@
   - 
 
 # Tasks:
- - Data collection for corona virus(Abbas)
+ - Data collection for corona virus and initiate colab(Abbas)
  - Topic Identetification and Subtopic Indentetification(Mehrdad)
